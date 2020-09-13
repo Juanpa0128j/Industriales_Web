@@ -172,6 +172,12 @@ aside ul li:hover {
 
 @media (max-width: 1405px) {
   aside {
+    width: 8%;
+  }
+}
+
+@media (max-width: 365px) {
+  aside {
     display: none;
   }
 }

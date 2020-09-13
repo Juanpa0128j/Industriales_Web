@@ -55,7 +55,7 @@ ROOT_URLCONF = 'Industriales_Web.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': ["/home/Juanpa0128j/juanpa0128j.pythonanywhere.com/Industriales_Web/templates"],
+        'DIRS': ["C:/Users/Pablito/Documents/Programación/Python/Django_Projects/Industriales_Web/Industriales_Web/templates"],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
