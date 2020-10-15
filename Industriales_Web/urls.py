@@ -22,6 +22,5 @@ urlpatterns = [
     path("Construcciones", views.Construcciones, name="Construcciones"),
     path("Electricidad", views.Electricidad, name="Electricidad"),
     path("Electronica", views.Electronica, name="Electronica"),
-    path("Metalisteria", views.Metalisteria, name="Metalisteria"),
-    path("Diseno_de_Productos", views.Diseno_de_Productos, name="Diseno_de_Productos"),
+    path("Diseno_de_Productos", views.Diseno_de_Productos, name="Diseno_de_Productos")
 ]
